@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: CherryTemplate
+Version: 1.0.0
+Summary: Yet another templating system for Python
+Home-page: http://www.cherrypy.org
+Author: CherryPy Team
+Author-email: team@cherrypy.org
+License: BSD
+Description: A simple but effective templating system for Python.
+Platform: UNKNOWN
+Classifier: Development Status :: Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: Freely Distributable
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet 

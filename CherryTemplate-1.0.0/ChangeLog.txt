@@ -1,0 +1,6 @@
+    * Now using generators to generate template result. pass "returnGenerator" to get a generator back instead of a string
+    * Removed the need to pass locals() and globals() each time
+
+2004/10/13:
+    * First alpha release of CherryTemplate-1
+
